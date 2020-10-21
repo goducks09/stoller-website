@@ -9,3 +9,5 @@ I built the theme and plugin from the groung up using a combination of PHP, Java
 * fully responsive design for all screen sizes
 
 In addition to being responsible for the development, I was in charge of making sure the development environment was set up and updated when needed. This included setting up a test instance of the site and pushing code o the hosting provider via FTP.
+
+Due to my role as a contractor, I do not have ownership of the source code, but the site can be found at [franciscostoller.com](https://franciscostoller.com/).
