@@ -6,6 +6,6 @@ I built the theme and plugin from the groung up using a combination of PHP, Java
 * custom Gutenberg blocks that allow for easily adding layout items to the site including an embedded YouTube player, multicolumn text sections, information tiles, a full-screen landing page with customizable background, and more
 * infinite scrolling for blog posts
 * custom color palette and font sizes that could be utilized in both custom and delivered block types
-• fully responsive design for all screen sizes
+* fully responsive design for all screen sizes
 
 In addition to being responsible for the development, I was in charge of making sure the development environment was set up and updated when needed. This included setting up a test instance of the site and pushing code o the hosting provider via FTP.
