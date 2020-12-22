@@ -1,4 +1,4 @@
-I was hired as the Lead Developer on this project, and was responsible for translating the design team's mockups into a responsive, accessible Wordpress site. Having never used Wordpress previously, this project was challenging. To prepare myself, I took a course on Udemy and read through the Wordpress documentation.
+I was hired as the Lead Developer on this project and was responsible for translating the design team's mockups into a responsive, accessible Wordpress site. Having never used Wordpress previously, this project was challenging. To prepare myself, I took a course on Udemy and read through the Wordpress documentation.
 
 The main goal was to create a custom site with the ability for a non-technical user to easily make updates to the site layout and content. Due to the specificity in the design guides and the need for the site to persist in the future with minimal technical support, third-party plugins had to be kept to a minimum. In researching, I found the best solution to be a custom theme and a plugin to create custom Gutenberg blocks.
 
